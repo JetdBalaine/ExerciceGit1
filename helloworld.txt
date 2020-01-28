@@ -1,2 +1,0 @@
-Hello World -- CT
-I used Visual Studio Code
